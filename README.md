@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Momentic is a boutique organic growth and AI search agency founded in Milwaukee, WI. They provide SEO, AI‑search, technical SEO, AXO, content and data intelligence services, building proprietary tooling like Atlas. Their clients include mid‑market and enterprise brands seeking to influence search and AI results. The team of five combines agency experience with engineering principles to deliver measurable organic growth.
+Momentic is an international agency based in Milwaukee, Wisconsin, that helps brands become discoverable across search engines and AI platforms like Google, ChatGPT, Gemini, and Claude. They offer SEO, AI search, content strategy, and the Atlas platform to measure and improve organic influence, providing consulting, migrations, and managed content services since 2018.
 
-**Areas:** SEO · AI · Marketing · Agency · OrganicGrowth
+**Areas:** Marketing · SEO · AI · Content Strategy · Consulting
 
 ## Momentic on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Momentic is published on APIs.io rather than in this rep
 
 ### APIs (1)
 
-- [Momentic API](https://apis.io/apis/momenticmarketing-com/momentic-api/) — Momentic provides marketing and SEO related services; the API surface is not publicly documented.
+- [Momentic Marketing API](https://apis.io/apis/momenticmarketing-com/momentic-marketing-api/) — API for Momentic Marketing platform, discovered via MCP endpoint.
 
 ### Published properties
 
@@ -91,13 +91,13 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://momenticmarketing.com/)
-- [Blog](https://momenticmarketing.com/blog/)
+- [Blog](https://momenticmarketing.com/blog)
 - [Terms of service](https://momenticmarketing.com/terms-of-use)
 - [Privacy policy](https://momenticmarketing.com/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 9.7** — minimal · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 10.5** — minimal · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
@@ -108,7 +108,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Developer ergonomics | 2.4 |
 | Access clarity | 17.0 |
 
-**Agent readiness 11.7** — agent-aware
+**Agent readiness 22.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -116,7 +116,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
-| Auth Clarity | — |
+| Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
@@ -127,7 +127,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
-| Delegated Identity | — |
+| Delegated Identity | served (partial credit) |
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
@@ -135,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/momenticmarketing-com/](https://apis.io/providers/momenticmarketing-com/).
 
